@@ -6,5 +6,8 @@
 }
 h2{
     color: cornsilk;
-    font-size: larger;
+    font: 900px;
+}
+.div{
+    margin: 100px;
 }

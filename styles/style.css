@@ -1,4 +1,10 @@
 .header{
-    size: 400px;
+    height: 400px;
     background-image: url("../developer.jpg");
+    background-size: cover;
+    background-position: center;
+}
+h2{
+    color: cornsilk;
+    font-size: larger;
 }
